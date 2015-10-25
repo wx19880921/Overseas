@@ -17,9 +17,9 @@
         "type":"Wireframe",
         "url":"home.html",
         "children":[{
-            "pageName":"等待",
+            "pageName":"Overseas",
             "type":"Wireframe",
-            "url":"等待.html"},
+            "url":"overseas.html"},
 {
             "pageName":"登陆",
             "type":"Wireframe",

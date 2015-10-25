@@ -1,0 +1,517 @@
+﻿$axure.loadCurrentPage({
+  "url":"overseas.html",
+  "generationDate":new Date(1445793807762.77),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable",
+"CommentText"],
+  "page":{
+    "packageId":"47df2fec3bc644bb86c096646ea7de1c",
+    "type":"Axure:Page",
+    "name":"Overseas",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"75fa82e67a6d4903b569503c9ba00979",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":375,
+              "height":647}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"259d834ecdef4cef850a52718c785962",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":375,
+                  "height":647}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 登陆",
+                      "target":{
+                        "targetType":"page",
+                        "url":"登陆.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/overseas/u0.jpg"}},
+{
+          "id":"869de1dc8dca49918739923c03692efb",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontName":"'方正舒体 Bold', '方正舒体'",
+            "fontSize":"20px",
+            "fontWeight":"700",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF0000FF,
+              "opacity":1},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFF},
+            "location":{
+              "x":104,
+              "y":117},
+            "size":{
+              "width":168,
+              "height":33}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"46e3518698ee465e841b57220835b1de",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontName":"'方正舒体 Bold', '方正舒体'",
+            "fontSize":"20px",
+            "fontWeight":"700",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF0000FF,
+              "opacity":1},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFF},
+            "location":{
+              "x":104,
+              "y":164},
+            "size":{
+              "width":168,
+              "height":33}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"63ea03a88b5a4d9a8d08f4d2b362b34f",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF1E1E1E,
+              "opacity":1},
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "fill":{
+              "fillType":"linearGradient",
+              "colors":[{
+                  "color":0xFFB1B1B1},
+{
+                  "color":0xFFB1B1B1},
+{
+                  "color":0xFFD0D0D0},
+{
+                  "color":0xFFF7F7F7},
+{
+                  "color":0xFFF7F7F7}]},
+            "location":{
+              "x":112,
+              "y":263},
+            "size":{
+              "width":152,
+              "height":37},
+            "cornerRadiusTopLeft":"50"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"1dbfd3b007614adca6337586774c0524",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF1E1E1E,
+                  "opacity":1},
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "fill":{
+                  "fillType":"linearGradient",
+                  "colors":[{
+                      "color":0xFFB1B1B1},
+{
+                      "color":0xFFB1B1B1},
+{
+                      "color":0xFFD0D0D0},
+{
+                      "color":0xFFF7F7F7},
+{
+                      "color":0xFFF7F7F7}]},
+                "location":{
+                  "x":112,
+                  "y":263},
+                "size":{
+                  "width":152,
+                  "height":37},
+                "cornerRadiusTopLeft":"50"},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 登陆",
+                      "target":{
+                        "targetType":"page",
+                        "url":"登陆.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/overseas/u4.png"}},
+{
+          "id":"6abd999e55c74c7f9ba2af4c5cd396e9",
+          "label":"click",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":216,
+              "y":270},
+            "size":{
+              "width":48,
+              "height":85}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onPanelStateChange":{
+              "description":"OnPanelStateChange",
+              "cases":[{
+                  "description":"用例 2<br> (If state of click 等于 State1)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"==",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetPanelState",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["6abd999e55c74c7f9ba2af4c5cd396e9"]}]},
+                    "rightExpr":{
+                      "exprType":"panelDiagramLiteral",
+                      "panelPath":["6abd999e55c74c7f9ba2af4c5cd396e9"],
+                      "panelIndex":0}},
+                  "actions":[{
+                      "action":"wait",
+                      "description":"等待500毫秒",
+                      "waitTime":500},
+{
+                      "action":"setPanelState",
+                      "description":"设置 click to 状态2",
+                      "panelsToStates":[{
+                          "panelPath":["6abd999e55c74c7f9ba2af4c5cd396e9"],
+                          "stateInfo":{
+                            "setStateType":"diagram",
+                            "stateNumber":2,
+                            "stateValue":{
+                              "exprType":"stringLiteral",
+                              "value":"1",
+                              "stos":[]},
+                            "loop":false,
+                            "showWhenSet":false,
+                            "options":{
+                              "compress":false}}}]}]},
+{
+                  "description":"用例 2<br> (Else If state of click 等于 状态2)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"==",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetPanelState",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["6abd999e55c74c7f9ba2af4c5cd396e9"]}]},
+                    "rightExpr":{
+                      "exprType":"panelDiagramLiteral",
+                      "panelPath":["6abd999e55c74c7f9ba2af4c5cd396e9"],
+                      "panelIndex":1}},
+                  "actions":[{
+                      "action":"wait",
+                      "description":"等待500毫秒",
+                      "waitTime":500},
+{
+                      "action":"setPanelState",
+                      "description":"设置 click to 状态1",
+                      "panelsToStates":[{
+                          "panelPath":["6abd999e55c74c7f9ba2af4c5cd396e9"],
+                          "stateInfo":{
+                            "setStateType":"diagram",
+                            "stateNumber":3,
+                            "stateValue":{
+                              "exprType":"stringLiteral",
+                              "value":"1",
+                              "stos":[]},
+                            "loop":false,
+                            "showWhenSet":false,
+                            "options":{
+                              "compress":false}}}]}]},
+{
+                  "description":"用例 2<br> (Else If state of click 等于 状态1)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"==",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetPanelState",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["6abd999e55c74c7f9ba2af4c5cd396e9"]}]},
+                    "rightExpr":{
+                      "exprType":"panelDiagramLiteral",
+                      "panelPath":["6abd999e55c74c7f9ba2af4c5cd396e9"],
+                      "panelIndex":2}},
+                  "actions":[{
+                      "action":"wait",
+                      "description":"等待1000毫秒",
+                      "waitTime":1000},
+{
+                      "action":"setPanelState",
+                      "description":"设置 click to State1",
+                      "panelsToStates":[{
+                          "panelPath":["6abd999e55c74c7f9ba2af4c5cd396e9"],
+                          "stateInfo":{
+                            "setStateType":"diagram",
+                            "stateNumber":1,
+                            "stateValue":{
+                              "exprType":"stringLiteral",
+                              "value":"1",
+                              "stos":[]},
+                            "loop":false,
+                            "showWhenSet":false,
+                            "options":{
+                              "compress":false}}}]}]}]},
+            "onLoad":{
+              "description":"OnLoad",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"wait",
+                      "description":"等待300毫秒",
+                      "waitTime":300},
+{
+                      "action":"setPanelState",
+                      "description":"设置 click to 状态2",
+                      "panelsToStates":[{
+                          "panelPath":["6abd999e55c74c7f9ba2af4c5cd396e9"],
+                          "stateInfo":{
+                            "setStateType":"diagram",
+                            "stateNumber":2,
+                            "stateValue":{
+                              "exprType":"stringLiteral",
+                              "value":"1",
+                              "stos":[]},
+                            "loop":false,
+                            "showWhenSet":false,
+                            "options":{
+                              "compress":false}}}]}]}]}},
+          "scrollbars":"none",
+          "fitToContent":false,
+          "propagate":false,
+          "diagrams":[{
+              "id":"68a974eba95446379d2918cf59d74b98",
+              "label":"State1",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"ef3f17d0e22d4cb6980fdf34f849e8df",
+                  "label":"",
+                  "parentDynamicPanel":"6abd999e55c74c7f9ba2af4c5cd396e9",
+                  "type":"imageBox",
+                  "styleType":"imageBox",
+                  "visible":true,
+                  "style":{
+                    "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                    "location":{
+                      "x":0,
+                      "y":7},
+                    "size":{
+                      "width":48,
+                      "height":78}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"f23edf91ba6c4d1985da84a2473984bf",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"6abd999e55c74c7f9ba2af4c5cd396e9",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":0,
+                          "y":7},
+                        "size":{
+                          "width":48,
+                          "height":78}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/资讯/u39.png"}}]},
+{
+              "id":"3fa1075a0a404f3d8c61b4072d486ad3",
+              "label":"状态2",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"8eca554935cc4f8b9738c494352a1f8a",
+                  "label":"",
+                  "parentDynamicPanel":"6abd999e55c74c7f9ba2af4c5cd396e9",
+                  "type":"imageBox",
+                  "styleType":"imageBox",
+                  "visible":true,
+                  "style":{
+                    "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                    "location":{
+                      "x":0,
+                      "y":8},
+                    "size":{
+                      "width":49,
+                      "height":77}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"60d452f8380a4431ad8908641f9ca09c",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"6abd999e55c74c7f9ba2af4c5cd396e9",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":0,
+                          "y":8},
+                        "size":{
+                          "width":49,
+                          "height":77}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/资讯/u41.png"}}]},
+{
+              "id":"50c66159e0f84c7db90d87e7233a119a",
+              "label":"状态1",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"2a109b42c4cc456397a4853ff564eb0b",
+                  "label":"",
+                  "parentDynamicPanel":"6abd999e55c74c7f9ba2af4c5cd396e9",
+                  "type":"imageBox",
+                  "styleType":"imageBox",
+                  "visible":true,
+                  "style":{
+                    "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                    "size":{
+                      "width":48,
+                      "height":85}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"cc93013c5420432a94eec5674c967a9a",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"6abd999e55c74c7f9ba2af4c5cd396e9",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "size":{
+                          "width":48,
+                          "height":85}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/资讯/u43.png"}}]}]}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "75fa82e67a6d4903b569503c9ba00979":{
+      "scriptId":"u0"},
+    "259d834ecdef4cef850a52718c785962":{
+      "scriptId":"u1"},
+    "869de1dc8dca49918739923c03692efb":{
+      "scriptId":"u2"},
+    "46e3518698ee465e841b57220835b1de":{
+      "scriptId":"u3"},
+    "63ea03a88b5a4d9a8d08f4d2b362b34f":{
+      "scriptId":"u4"},
+    "1dbfd3b007614adca6337586774c0524":{
+      "scriptId":"u5"},
+    "6abd999e55c74c7f9ba2af4c5cd396e9":{
+      "scriptId":"u6"},
+    "ef3f17d0e22d4cb6980fdf34f849e8df":{
+      "scriptId":"u7"},
+    "f23edf91ba6c4d1985da84a2473984bf":{
+      "scriptId":"u8"},
+    "8eca554935cc4f8b9738c494352a1f8a":{
+      "scriptId":"u9"},
+    "60d452f8380a4431ad8908641f9ca09c":{
+      "scriptId":"u10"},
+    "2a109b42c4cc456397a4853ff564eb0b":{
+      "scriptId":"u11"},
+    "cc93013c5420432a94eec5674c967a9a":{
+      "scriptId":"u12"}}});

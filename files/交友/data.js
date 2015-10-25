@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"交友.html",
-  "generationDate":new Date(1445783306363.13),
+  "generationDate":new Date(1445793807542.76),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "CommentText"],

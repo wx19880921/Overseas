@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"消息.html",
-  "generationDate":new Date(1445783306467.13),
+  "generationDate":new Date(1445793807703.77),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "CommentText"],

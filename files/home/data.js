@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"home.html",
-  "generationDate":new Date(1445783304845.04),
+  "generationDate":new Date(1445793807064.73),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "CommentText"],
@@ -35,10 +35,10 @@
             "isNewIfGroup":false,
             "actions":[{
                 "action":"linkWindow",
-                "description":"在 当前窗口 打开 等待",
+                "description":"在 当前窗口 打开 Overseas",
                 "target":{
                   "targetType":"page",
-                  "url":"等待.html",
+                  "url":"overseas.html",
                   "includeVariables":true},
                 "linkType":"current"}]}]}},
     "diagram":{
